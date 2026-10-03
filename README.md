@@ -32,6 +32,7 @@ My experience covers not only data processing logic but also the broader operati
 
 ### Data Platform & Storage
 
+![Iceberg](https://img.shields.io/badge/Iceberg-4D9DCA?style=for-the-badge&logo=Apache&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=Apache%20Hadoop&logoColor=black)
 ![HBase](https://img.shields.io/badge/HBase-0F2E3D?style=for-the-badge&logo=Apache&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-F37626?style=for-the-badge&logo=Apache&logoColor=white)
